@@ -23,4 +23,9 @@ endif
 set expandtab
 
 filetype plugin indent on
+
+
+" :FormatJSON
+command! FormatJSON %!python -m json.tool
+
 syntax on
