@@ -5,7 +5,7 @@ Here it is, my minimalistic vim configuration. It serves my needs.
 ## How to install
 
 ```
-    git clone https://github.com/jcara/vim-config.git ~/.vim
+    git clone --recursive https://github.com/jcara/vim-config.git ~/.vim
     sh ~/.vim/.install.sh
 ```
 
