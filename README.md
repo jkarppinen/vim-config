@@ -21,8 +21,9 @@ Here's my configuration for vim.
 ```
 
 ### 4. Create directories
+```
     mkdir -p ~/.vim/colors
-
+```
 
 ### 5. Copy theme.
 ```
